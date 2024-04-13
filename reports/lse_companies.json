@@ -1,0 +1,476 @@
+{
+    "BP": {
+        "rank": "28",
+        "name": "BP",
+        "name_v2": "BP plc",
+        "link": "https://www.annualreports.com/Company/bp-plc"
+    },
+    "Allianz": {
+        "rank": "37",
+        "name": "Allianz",
+        "name_v2": "Allianz Technology Trust",
+        "link": "https://www.annualreports.com/Company/allianz-technology-trust"
+    },
+    "Reliance Industries": {
+        "rank": "45",
+        "name": "Reliance Industries",
+        "name_v2": "Reliance Industries Limited",
+        "link": "https://www.annualreports.com/Company/reliance-industries-limited"
+    },
+    "Mitsubishi": {
+        "rank": "75",
+        "name": "Mitsubishi",
+        "name_v2": "Mitsubishi Electric Corporation",
+        "link": "https://www.annualreports.com/Company/mitsubishi-electric-corporation"
+    },
+    "Oracle": {
+        "rank": "80",
+        "name": "Oracle",
+        "name_v2": "Oracle Power PLC",
+        "link": "https://www.annualreports.com/Company/oracle-power-plc"
+    },
+    "BHP Group": {
+        "rank": "90",
+        "name": "BHP Group",
+        "name_v2": "BHP Group Plc",
+        "link": "https://www.annualreports.com/Company/bhp-group-plc"
+    },
+    "Coca-Cola": {
+        "rank": "96",
+        "name": "Coca-Cola",
+        "name_v2": "Coca-Cola Hellenic Bottling Company S.A.",
+        "link": "https://www.annualreports.com/Company/coca-cola-hellenic-bottling-company-sa"
+    },
+    "Rio Tinto": {
+        "rank": "101",
+        "name": "Rio Tinto",
+        "name_v2": "Rio Tinto PLC",
+        "link": "https://www.annualreports.com/Company/rio-tinto-plc"
+    },
+    "Unilever": {
+        "rank": "104",
+        "name": "Unilever",
+        "name_v2": "Unilever plc",
+        "link": "https://www.annualreports.com/Company/unilever-plc"
+    },
+    "British American Tobacco": {
+        "rank": "110",
+        "name": "British American Tobacco",
+        "name_v2": "British American Tobacco plc",
+        "link": "https://www.annualreports.com/Company/british-american-tobacco-plc"
+    },
+    "AstraZeneca": {
+        "rank": "126",
+        "name": "AstraZeneca",
+        "name_v2": "AstraZeneca plc",
+        "link": "https://www.annualreports.com/Company/astrazeneca-plc"
+    },
+    "Lloyds Banking Group": {
+        "rank": "147",
+        "name": "Lloyds Banking Group",
+        "name_v2": "Lloyds Banking Group PLC",
+        "link": "https://www.annualreports.com/Company/Lloyds-Banking"
+    },
+    "Barclays": {
+        "rank": "164",
+        "name": "Barclays",
+        "name_v2": "Barclays",
+        "link": "https://www.annualreports.com/Company/barclays"
+    },
+    "Target": {
+        "rank": "203",
+        "name": "Target",
+        "name_v2": "Target Healthcare REIT Plc",
+        "link": "https://www.annualreports.com/Company/target-healthcare-reit-plc"
+    },
+    "BlackRock": {
+        "rank": "215",
+        "name": "BlackRock",
+        "name_v2": "BlackRock",
+        "link": "https://www.annualreports.com/Company/blackrock"
+    },
+    "Vodafone": {
+        "rank": "229",
+        "name": "Vodafone",
+        "name_v2": "Vodafone Group plc",
+        "link": "https://www.annualreports.com/Company/vodafone-group-plc"
+    },
+    "Anglo American": {
+        "rank": "234",
+        "name": "Anglo American",
+        "name_v2": "Anglo American plc",
+        "link": "https://www.annualreports.com/Company/anglo-american-plc"
+    },
+    "Standard Chartered": {
+        "rank": "255",
+        "name": "Standard Chartered",
+        "name_v2": "Standard Chartered plc",
+        "link": "https://www.annualreports.com/Company/standard-chartered-plc"
+    },
+    "Diageo": {
+        "rank": "275",
+        "name": "Diageo",
+        "name_v2": "Diageo plc",
+        "link": "https://www.annualreports.com/Company/diageo-plc"
+    },
+    "HP": {
+        "rank": "355",
+        "name": "HP",
+        "name_v2": "BHP Group Plc",
+        "link": "https://www.annualreports.com/Company/bhp-group-plc"
+    },
+    "Reckitt Benckiser Group": {
+        "rank": "380",
+        "name": "Reckitt Benckiser Group",
+        "name_v2": "Reckitt Benckiser Group plc",
+        "link": "https://www.annualreports.com/Company/reckitt-benckiser-group-plc"
+    },
+    "BAE Systems": {
+        "rank": "395",
+        "name": "BAE Systems",
+        "name_v2": "BAE Systems plc",
+        "link": "https://www.annualreports.com/Company/bae-systems-plc"
+    },
+    "BT Group": {
+        "rank": "405",
+        "name": "BT Group",
+        "name_v2": "BT Group plc",
+        "link": "https://www.annualreports.com/Company/bt-group-plc"
+    },
+    "Mitsubishi Electric": {
+        "rank": "409",
+        "name": "Mitsubishi Electric",
+        "name_v2": "Mitsubishi Electric Corporation",
+        "link": "https://www.annualreports.com/Company/mitsubishi-electric-corporation"
+    },
+    "Tesco": {
+        "rank": "421",
+        "name": "Tesco",
+        "name_v2": "Tesco plc",
+        "link": "https://www.annualreports.com/Company/tesco-plc"
+    },
+    "Intel": {
+        "rank": "422",
+        "name": "Intel",
+        "name_v2": "Access Intelligence",
+        "link": "https://www.annualreports.com/Company/access-intelligence"
+    },
+    "Axis Bank": {
+        "rank": "423",
+        "name": "Axis Bank",
+        "name_v2": "Axis Bank Limited",
+        "link": "https://www.annualreports.com/Company/axis-bank-limited"
+    },
+    "Larsen & Toubro": {
+        "rank": "449",
+        "name": "Larsen & Toubro",
+        "name_v2": "Larsen & Toubro",
+        "link": "https://www.annualreports.com/Company/larsen-toubro"
+    },
+    "Imperial Brands": {
+        "rank": "506",
+        "name": "Imperial Brands",
+        "name_v2": "Imperial Brands PLC",
+        "link": "https://www.annualreports.com/Company/imperial-brands-plc"
+    },
+    "Compass Group": {
+        "rank": "516",
+        "name": "Compass Group",
+        "name_v2": "Compass Group Plc",
+        "link": "https://www.annualreports.com/Company/compass-group-plc"
+    },
+    "Haleon": {
+        "rank": "523",
+        "name": "Haleon",
+        "name_v2": "Haleon",
+        "link": "https://www.annualreports.com/Company/haleon"
+    },
+    "Ferguson": {
+        "rank": "602",
+        "name": "Ferguson",
+        "name_v2": "Ferguson plc",
+        "link": "https://www.annualreports.com/Company/ferguson-plc"
+    },
+    "Legal & General Group": {
+        "rank": "617",
+        "name": "Legal & General Group",
+        "name_v2": "Legal & General Group Plc",
+        "link": "https://www.annualreports.com/Company/Legal-General-Group"
+    },
+    "SK": {
+        "rank": "620",
+        "name": "SK",
+        "name_v2": "KSK Power Ventur PLC",
+        "link": "https://www.annualreports.com/Company/ksk-power-ventur-plc"
+    },
+    "SSE": {
+        "rank": "627",
+        "name": "SSE",
+        "name_v2": "SSE PLC",
+        "link": "https://www.annualreports.com/Company/SSE-PLC"
+    },
+    "Prudential": {
+        "rank": "660",
+        "name": "Prudential",
+        "name_v2": "Prudential plc",
+        "link": "https://www.annualreports.com/Company/prudential-plc"
+    },
+    "Associated British Foods": {
+        "rank": "704",
+        "name": "Associated British Foods",
+        "name_v2": "Associated British Foods plc",
+        "link": "https://www.annualreports.com/Company/associated-british-foods-plc"
+    },
+    "Fox": {
+        "rank": "719",
+        "name": "Fox",
+        "name_v2": "Fox Marble Holdings PLC",
+        "link": "https://www.annualreports.com/Company/fox-marble-holdings-plc"
+    },
+    "Mahindra & Mahindra": {
+        "rank": "722",
+        "name": "Mahindra & Mahindra",
+        "name_v2": "Mahindra & Mahindra",
+        "link": "https://www.annualreports.com/Company/mahindra-mahindra"
+    },
+    "EQT": {
+        "rank": "747",
+        "name": "EQT",
+        "name_v2": "EQTEC Plc",
+        "link": "https://www.annualreports.com/Company/eqtec-plc"
+    },
+    "WPP": {
+        "rank": "763",
+        "name": "WPP",
+        "name_v2": "WPP PLC",
+        "link": "https://www.annualreports.com/Company/wpp-plc"
+    },
+    "Continental": {
+        "rank": "797",
+        "name": "Continental",
+        "name_v2": "Irish Continental Group",
+        "link": "https://www.annualreports.com/Company/irish-continental-group"
+    },
+    "Block": {
+        "rank": "802",
+        "name": "Block",
+        "name_v2": "Argo Blockchain",
+        "link": "https://www.annualreports.com/Company/argo-blockchain"
+    },
+    "3i Group": {
+        "rank": "922",
+        "name": "3i Group",
+        "name_v2": "3i Group plc",
+        "link": "https://www.annualreports.com/Company/3i-group-plc"
+    },
+    "International Airlines": {
+        "rank": "955",
+        "name": "International Airlines",
+        "name_v2": "International Airlines Group",
+        "link": "https://www.annualreports.com/Company/international-airlines-group"
+    },
+    "OTP Bank": {
+        "rank": "965",
+        "name": "OTP Bank",
+        "name_v2": "OTP Bank",
+        "link": "https://www.annualreports.com/Company/otp-bank"
+    },
+    "South32": {
+        "rank": "988",
+        "name": "South32",
+        "name_v2": "South32 Limited",
+        "link": "https://www.annualreports.com/Company/south32-limited"
+    },
+    "J Sainsbury": {
+        "rank": "1,069",
+        "name": "J Sainsbury",
+        "name_v2": "J Sainsbury PLC",
+        "link": "https://www.annualreports.com/Company/j-sainsbury-plc"
+    },
+    "Antofagasta": {
+        "rank": "1,086",
+        "name": "Antofagasta",
+        "name_v2": "Antofagasta plc",
+        "link": "https://www.annualreports.com/Company/antofagasta-plc"
+    },
+    "Centrica": {
+        "rank": "1,099",
+        "name": "Centrica",
+        "name_v2": "Centrica plc",
+        "link": "https://www.annualreports.com/Company/centrica-plc"
+    },
+    "Aviva": {
+        "rank": "1,109",
+        "name": "Aviva",
+        "name_v2": "Aviva plc",
+        "link": "https://www.annualreports.com/Company/Aviva"
+    },
+    "Experian": {
+        "rank": "1,167",
+        "name": "Experian",
+        "name_v2": "Experian plc",
+        "link": "https://www.annualreports.com/Company/Experian"
+    },
+    "Metro": {
+        "rank": "1,196",
+        "name": "Metro",
+        "name_v2": "Metro Bank PLC",
+        "link": "https://www.annualreports.com/Company/metro-bank-plc"
+    },
+    "Bunzl": {
+        "rank": "1,261",
+        "name": "Bunzl",
+        "name_v2": "Bunzl plc",
+        "link": "https://www.annualreports.com/Company/bunzl-plc"
+    },
+    "Kerry Group": {
+        "rank": "1,273",
+        "name": "Kerry Group",
+        "name_v2": "Kerry Group",
+        "link": "https://www.annualreports.com/Company/kerry-group"
+    },
+    "Mondi": {
+        "rank": "1,338",
+        "name": "Mondi",
+        "name_v2": "Mondi plc",
+        "link": "https://www.annualreports.com/Company/mondi-plc"
+    },
+    "St. James's Place": {
+        "rank": "1,357",
+        "name": "St. James's Place",
+        "name_v2": "St. James's Place plc",
+        "link": "https://www.annualreports.com/Company/st-jamess-place-plc"
+    },
+    "Phoenix Group Holdings": {
+        "rank": "1,427",
+        "name": "Phoenix Group Holdings",
+        "name_v2": "Phoenix Group Holdings",
+        "link": "https://www.annualreports.com/Company/Phoenix-Group-Holdings"
+    },
+    "XP": {
+        "rank": "1,436",
+        "name": "XP",
+        "name_v2": "XP Power Limited",
+        "link": "https://www.annualreports.com/Company/xp-power-limited"
+    },
+    "M&G": {
+        "rank": "1,503",
+        "name": "M&G",
+        "name_v2": "M&G Plc",
+        "link": "https://www.annualreports.com/Company/mg-plc"
+    },
+    "Hera": {
+        "rank": "1,515",
+        "name": "Hera",
+        "name_v2": "Herald Investment Trust PLC",
+        "link": "https://www.annualreports.com/Company/herald-investment-trust-plc"
+    },
+    "Compal Electronics": {
+        "rank": "1,522",
+        "name": "Compal Electronics",
+        "name_v2": "Compal Electronics",
+        "link": "https://www.annualreports.com/Company/compal-electronics"
+    },
+    "Old Mutual": {
+        "rank": "1,522",
+        "name": "Old Mutual",
+        "name_v2": "Old Mutual plc",
+        "link": "https://www.annualreports.com/Company/old-mutual-plc"
+    },
+    "Empire": {
+        "rank": "1,525",
+        "name": "Empire",
+        "name_v2": "Empire Metals Limited",
+        "link": "https://www.annualreports.com/Company/empire-metals-limited"
+    },
+    "Harbour Energy": {
+        "rank": "1,546",
+        "name": "Harbour Energy",
+        "name_v2": "Harbour Energy",
+        "link": "https://www.annualreports.com/Company/harbour-energy"
+    },
+    "WSP": {
+        "rank": "1,586",
+        "name": "WSP",
+        "name_v2": "WSP Group plc",
+        "link": "https://www.annualreports.com/Company/wsp-group-plc"
+    },
+    "Lear": {
+        "rank": "1,595",
+        "name": "Lear",
+        "name_v2": "Learning Technologies Group plc",
+        "link": "https://www.annualreports.com/Company/learning-technologies-group-plc"
+    },
+    "Next": {
+        "rank": "1,639",
+        "name": "Next",
+        "name_v2": "Next Fifteen Communications Group plc",
+        "link": "https://www.annualreports.com/Company/next-fifteen-communications-group-plc"
+    },
+    "Schroders": {
+        "rank": "1,654",
+        "name": "Schroders",
+        "name_v2": "Schroders plc",
+        "link": "https://www.annualreports.com/Company/schroders-plc"
+    },
+    "DCC": {
+        "rank": "1,670",
+        "name": "DCC",
+        "name_v2": "DCC plc",
+        "link": "https://www.annualreports.com/Company/dcc-plc"
+    },
+    "JD Sports Fashion": {
+        "rank": "1,676",
+        "name": "JD Sports Fashion",
+        "name_v2": "JD Sports Fashion PLC",
+        "link": "https://www.annualreports.com/Company/JD-Sports-Fashion"
+    },
+    "TUI": {
+        "rank": "1,700",
+        "name": "TUI",
+        "name_v2": "TUI AG",
+        "link": "https://www.annualreports.com/Company/tui-ag"
+    },
+    "Quilter": {
+        "rank": "1,839",
+        "name": "Quilter",
+        "name_v2": "Quilter",
+        "link": "https://www.annualreports.com/Company/quilter"
+    },
+    "Johnson Matthey": {
+        "rank": "1,843",
+        "name": "Johnson Matthey",
+        "name_v2": "Johnson Matthey plc",
+        "link": "https://www.annualreports.com/Company/johnson-matthey-plc"
+    },
+    "Zenith Bank": {
+        "rank": "1,852",
+        "name": "Zenith Bank",
+        "name_v2": "Zenith Bank Plc",
+        "link": "https://www.annualreports.com/Company/zenith-bank-plc"
+    },
+    "United Utilities": {
+        "rank": "1,879",
+        "name": "United Utilities",
+        "name_v2": "United Utilities",
+        "link": "https://www.annualreports.com/Company/united-utilities"
+    },
+    "Rentokil Initial": {
+        "rank": "1,898",
+        "name": "Rentokil Initial",
+        "name_v2": "Rentokil Initial plc",
+        "link": "https://www.annualreports.com/Company/rentokil-initial-plc"
+    },
+    "NIO": {
+        "rank": "1,915",
+        "name": "NIO",
+        "name_v2": "NIOX Group Plc",
+        "link": "https://www.annualreports.com/Company/niox-group-plc"
+    },
+    "OSB Group": {
+        "rank": "1,990",
+        "name": "OSB Group",
+        "name_v2": "OSB Group Plc",
+        "link": "https://www.annualreports.com/Company/osb-group-plc"
+    }
+}

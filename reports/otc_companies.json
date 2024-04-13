@@ -1,0 +1,392 @@
+{
+    "Volkswagen Group": {
+        "rank": "29",
+        "name": "Volkswagen Group",
+        "name_v2": "Volkswagen Group",
+        "link": "https://www.annualreports.com/Company/volkswagen-group"
+    },
+    "Mercedes-Benz Group": {
+        "rank": "42",
+        "name": "Mercedes-Benz Group",
+        "name_v2": "Mercedes-Benz Group AG",
+        "link": "https://www.annualreports.com/Company/mercedes-benz-group-ag"
+    },
+    "Nestl\u00e9": {
+        "rank": "50",
+        "name": "Nestl\u00e9",
+        "name_v2": "Nestl\u00e9",
+        "link": "https://www.annualreports.com/Company/nestle"
+    },
+    "Iberdrola": {
+        "rank": "102",
+        "name": "Iberdrola",
+        "name_v2": "Iberdrola S.A.",
+        "link": "https://www.annualreports.com/Company/iberdrola-sa"
+    },
+    "Hyundai Motor": {
+        "rank": "104",
+        "name": "Hyundai Motor",
+        "name_v2": "Hyundai Motor Company",
+        "link": "https://www.annualreports.com/Company/hyundai-motor-company"
+    },
+    "Mitsui": {
+        "rank": "107",
+        "name": "Mitsui",
+        "name_v2": "Mitsui & Co.",
+        "link": "https://www.annualreports.com/Company/mitsui-co"
+    },
+    "Bayer ": {
+        "rank": "137",
+        "name": "Bayer ",
+        "name_v2": "Bayer AG",
+        "link": "https://www.annualreports.com/Company/bayer-ag"
+    },
+    "Charter Communications": {
+        "rank": "138",
+        "name": "Charter Communications",
+        "name_v2": "Charter Communications Inc.",
+        "link": "https://www.annualreports.com/Company/charter-communications-inc"
+    },
+    "Deutsche Post": {
+        "rank": "154",
+        "name": "Deutsche Post",
+        "name_v2": "Deutsche Post AG",
+        "link": "https://www.annualreports.com/Company/deutsche-post-ag"
+    },
+    "UniCredit": {
+        "rank": "176",
+        "name": "UniCredit",
+        "name_v2": "UniCredit S.p.A.",
+        "link": "https://www.annualreports.com/Company/unicredit-spa"
+    },
+    "Enel": {
+        "rank": "178",
+        "name": "Enel",
+        "name_v2": "Enel S.p.A.",
+        "link": "https://www.annualreports.com/Company/enel-spa"
+    },
+    "Schneider Electric": {
+        "rank": "206",
+        "name": "Schneider Electric",
+        "name_v2": "Schneider Electric",
+        "link": "https://www.annualreports.com/Company/schneider-electric"
+    },
+    "E.ON": {
+        "rank": "209",
+        "name": "E.ON",
+        "name_v2": "E.ON AG",
+        "link": "https://www.annualreports.com/Company/eon-ag"
+    },
+    "SAP": {
+        "rank": "221",
+        "name": "SAP",
+        "name_v2": "ASAP ",
+        "link": "https://www.annualreports.com/Company/asap"
+    },
+    "Air Liquide": {
+        "rank": "248",
+        "name": "Air Liquide",
+        "name_v2": "L'Air Liquide S.A.",
+        "link": "https://www.annualreports.com/Company/lair-liquide-sa"
+    },
+    "Holcim": {
+        "rank": "268",
+        "name": "Holcim",
+        "name_v2": "Holcim",
+        "link": "https://www.annualreports.com/Company/holcim"
+    },
+    "CRH": {
+        "rank": "304",
+        "name": "CRH",
+        "name_v2": "CRH PLC",
+        "link": "https://www.annualreports.com/Company/crh-plc"
+    },
+    "OMV Group": {
+        "rank": "357",
+        "name": "OMV Group",
+        "name_v2": "OMV Group",
+        "link": "https://www.annualreports.com/Company/omv-group"
+    },
+    "Nokia": {
+        "rank": "368",
+        "name": "Nokia",
+        "name_v2": "Nokian Tyres plc",
+        "link": "https://www.annualreports.com/Company/nokian-tyres-plc"
+    },
+    "Daikin Industries": {
+        "rank": "378",
+        "name": "Daikin Industries",
+        "name_v2": "Daikin Industries Ltd.",
+        "link": "https://www.annualreports.com/Company/daikin-industries-ltd"
+    },
+    "Tata Consultancy Services": {
+        "rank": "386",
+        "name": "Tata Consultancy Services",
+        "name_v2": "Tata Consultancy Services Ltd.",
+        "link": "https://www.annualreports.com/Company/tata-consultancy-services-ltd"
+    },
+    "Heineken": {
+        "rank": "396",
+        "name": "Heineken",
+        "name_v2": "Heineken N.V.",
+        "link": "https://www.annualreports.com/Company/heineken-nv"
+    },
+    "Nissan Motor": {
+        "rank": "424",
+        "name": "Nissan Motor",
+        "name_v2": "Nissan Motor Co., Ltd.",
+        "link": "https://www.annualreports.com/Company/nissan-motor-co-ltd"
+    },
+    "AIA Group": {
+        "rank": "425",
+        "name": "AIA Group",
+        "name_v2": "AIA Group Limited",
+        "link": "https://www.annualreports.com/Company/aia-group-limited"
+    },
+    "Carrefour": {
+        "rank": "429",
+        "name": "Carrefour",
+        "name_v2": "Carrefour S.A.",
+        "link": "https://www.annualreports.com/Company/carrefour-sa"
+    },
+    "Komatsu": {
+        "rank": "441",
+        "name": "Komatsu",
+        "name_v2": "Komatsu Limited",
+        "link": "https://www.annualreports.com/Company/komatsu-limited"
+    },
+    "Grupo Mexico": {
+        "rank": "469",
+        "name": "Grupo Mexico",
+        "name_v2": "Grupo Mexico",
+        "link": "https://www.annualreports.com/Company/grupo-mexico"
+    },
+    "Henkel": {
+        "rank": "479",
+        "name": "Henkel",
+        "name_v2": "Henkel",
+        "link": "https://www.annualreports.com/Company/henkel"
+    },
+    "Naspers": {
+        "rank": "511",
+        "name": "Naspers",
+        "name_v2": "Naspers Ltd",
+        "link": "https://www.annualreports.com/Company/naspers-ltd"
+    },
+    "Fujitsu": {
+        "rank": "545",
+        "name": "Fujitsu",
+        "name_v2": "Fujitsu Ltd.",
+        "link": "https://www.annualreports.com/Company/fujitsu-ltd"
+    },
+    "Deutsche Boerse": {
+        "rank": "583",
+        "name": "Deutsche Boerse",
+        "name_v2": "Deutsche Boerse Group",
+        "link": "https://www.annualreports.com/Company/deutsche-boerse-group"
+    },
+    "Tata Steel": {
+        "rank": "591",
+        "name": "Tata Steel",
+        "name_v2": "Tata Steel Ltd.",
+        "link": "https://www.annualreports.com/Company/tata-steel-ltd"
+    },
+    "Swisscom": {
+        "rank": "619",
+        "name": "Swisscom",
+        "name_v2": "Swisscom AG",
+        "link": "https://www.annualreports.com/Company/swisscom-ag"
+    },
+    "SK": {
+        "rank": "620",
+        "name": "SK",
+        "name_v2": "NSK Ltd.",
+        "link": "https://www.annualreports.com/Company/nsk-ltd"
+    },
+    "Subaru": {
+        "rank": "667",
+        "name": "Subaru",
+        "name_v2": "Subaru Corporation",
+        "link": "https://www.annualreports.com/Company/subaru-corporation"
+    },
+    "Toshiba": {
+        "rank": "668",
+        "name": "Toshiba",
+        "name_v2": "Toshiba Corp.",
+        "link": "https://www.annualreports.com/Company/toshiba-corp"
+    },
+    "Kyocera": {
+        "rank": "672",
+        "name": "Kyocera",
+        "name_v2": "Kyocera AVX Corporation",
+        "link": "https://www.annualreports.com/Company/kyocera-avx-corporation"
+    },
+    "Jardine Matheson": {
+        "rank": "704",
+        "name": "Jardine Matheson",
+        "name_v2": "Jardine Matheson Holdings Limited",
+        "link": "https://www.annualreports.com/Company/jardine-matheson-holdings-limited"
+    },
+    "NEC": {
+        "rank": "744",
+        "name": "NEC",
+        "name_v2": "NEC Corp.",
+        "link": "https://www.annualreports.com/Company/nec-corp"
+    },
+    "MTR": {
+        "rank": "753",
+        "name": "MTR",
+        "name_v2": "MTR Corporation Ltd",
+        "link": "https://www.annualreports.com/Company/mtr-corporation-ltd"
+    },
+    "Sodexo": {
+        "rank": "762",
+        "name": "Sodexo",
+        "name_v2": "Sodexo S.A.",
+        "link": "https://www.annualreports.com/Company/sodexo-sa"
+    },
+    "TDK": {
+        "rank": "852",
+        "name": "TDK",
+        "name_v2": "TDK Corp.",
+        "link": "https://www.annualreports.com/Company/tdk-corp"
+    },
+    "Adidas": {
+        "rank": "866",
+        "name": "Adidas",
+        "name_v2": "Adidas AG",
+        "link": "https://www.annualreports.com/Company/adidas-ag"
+    },
+    "Fortum": {
+        "rank": "888",
+        "name": "Fortum",
+        "name_v2": "Fortum Oyj",
+        "link": "https://www.annualreports.com/Company/fortum-oyj"
+    },
+    "Amcor": {
+        "rank": "901",
+        "name": "Amcor",
+        "name_v2": "Amcor Ltd.",
+        "link": "https://www.annualreports.com/Company/amcor-ltd"
+    },
+    "Stora Enso": {
+        "rank": "911",
+        "name": "Stora Enso",
+        "name_v2": "Stora Enso",
+        "link": "https://www.annualreports.com/Company/stora-enso"
+    },
+    "Nidec": {
+        "rank": "973",
+        "name": "Nidec",
+        "name_v2": "Nidec Corporation",
+        "link": "https://www.annualreports.com/Company/nidec-corporation"
+    },
+    "Nedbank": {
+        "rank": "1,136",
+        "name": "Nedbank",
+        "name_v2": "Nedbank Group Ltd.",
+        "link": "https://www.annualreports.com/Company/nedbank-group-ltd"
+    },
+    "Toray Industries": {
+        "rank": "1,145",
+        "name": "Toray Industries",
+        "name_v2": "Toray Industries Inc.",
+        "link": "https://www.annualreports.com/Company/toray-industries-inc"
+    },
+    "Kao ": {
+        "rank": "1,170",
+        "name": "Kao ",
+        "name_v2": "Kao Corp.",
+        "link": "https://www.annualreports.com/Company/kao-corp"
+    },
+    "Metro": {
+        "rank": "1,196",
+        "name": "Metro",
+        "name_v2": "Metro AG",
+        "link": "https://www.annualreports.com/Company/metro-ag"
+    },
+    "Carlsberg": {
+        "rank": "1,312",
+        "name": "Carlsberg",
+        "name_v2": "Carlsberg Group",
+        "link": "https://www.annualreports.com/Company/carlsberg-group"
+    },
+    "Daiwa Securities": {
+        "rank": "1,327",
+        "name": "Daiwa Securities",
+        "name_v2": "Daiwa Securities Group Inc.",
+        "link": "https://www.annualreports.com/Company/daiwa-securities-group-inc"
+    },
+    "Akzo Nobel": {
+        "rank": "1,429",
+        "name": "Akzo Nobel",
+        "name_v2": "Akzo Nobel N.V.",
+        "link": "https://www.annualreports.com/Company/akzo-nobel-nv"
+    },
+    "AGC": {
+        "rank": "1,432",
+        "name": "AGC",
+        "name_v2": "AGC Inc.",
+        "link": "https://www.annualreports.com/Company/agc-inc"
+    },
+    "Outokumpu": {
+        "rank": "1,443",
+        "name": "Outokumpu",
+        "name_v2": "Outokumpu Oyj",
+        "link": "https://www.annualreports.com/Company/outokumpu-oyj"
+    },
+    "SGS": {
+        "rank": "1,466",
+        "name": "SGS",
+        "name_v2": "SGS S.A.",
+        "link": "https://www.annualreports.com/Company/sgs-sa"
+    },
+    "Empire": {
+        "rank": "1,525",
+        "name": "Empire",
+        "name_v2": "Empire Bancorp Inc.",
+        "link": "https://www.annualreports.com/Company/empire-bancorp-inc"
+    },
+    "Commercial International Bank": {
+        "rank": "1,641",
+        "name": "Commercial International Bank",
+        "name_v2": "Commercial International Bank (CIB) Egypt ",
+        "link": "https://www.annualreports.com/Company/commercial-international-bank"
+    },
+    "Pinnacle Bank": {
+        "rank": "1,652",
+        "name": "Pinnacle Bank",
+        "name_v2": "Pinnacle Bankshares Corp",
+        "link": "https://www.annualreports.com/Company/pinnacle-bankshares-corp"
+    },
+    "Keppel": {
+        "rank": "1,685",
+        "name": "Keppel",
+        "name_v2": "Keppel Corp Ltd",
+        "link": "https://www.annualreports.com/Company/keppel-corp-ltd"
+    },
+    "Storebrand": {
+        "rank": "1,699",
+        "name": "Storebrand",
+        "name_v2": "Storebrand ASA",
+        "link": "https://www.annualreports.com/Company/storebrand-asa"
+    },
+    "Frasers Property": {
+        "rank": "1,807",
+        "name": "Frasers Property",
+        "name_v2": "Frasers Property Limited",
+        "link": "https://www.annualreports.com/Company/frasers-property-limited"
+    },
+    "Prada": {
+        "rank": "1,866",
+        "name": "Prada",
+        "name_v2": "Prada Group",
+        "link": "https://www.annualreports.com/Company/prada-group"
+    },
+    "KION Group": {
+        "rank": "1,900",
+        "name": "KION Group",
+        "name_v2": "KION Group",
+        "link": "https://www.annualreports.com/Company/kion-group"
+    }
+}

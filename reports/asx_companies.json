@@ -1,0 +1,260 @@
+{
+    "BP": {
+        "rank": "28",
+        "name": "BP",
+        "name_v2": "BPH Energy Limited",
+        "link": "https://www.annualreports.com/Company/bph-energy-limited"
+    },
+    "Coca-Cola": {
+        "rank": "96",
+        "name": "Coca-Cola",
+        "name_v2": "Coca-Cola Amatil Ltd",
+        "link": "https://www.annualreports.com/Company/coca-cola-amatil-ltd"
+    },
+    "Commonwealth Bank": {
+        "rank": "100",
+        "name": "Commonwealth Bank",
+        "name_v2": "Commonwealth Bank of Australia",
+        "link": "https://www.annualreports.com/Company/Commonwealth-Bank-Australia"
+    },
+    "Dow": {
+        "rank": "257",
+        "name": "Dow",
+        "name_v2": "Downer EDI Limited",
+        "link": "https://www.annualreports.com/Company/downer-edi-limited"
+    },
+    "Fortescue Metals Group": {
+        "rank": "414",
+        "name": "Fortescue Metals Group",
+        "name_v2": "Fortescue Metals Group Limited",
+        "link": "https://www.annualreports.com/Company/Fortescue-Metals"
+    },
+    "Intel": {
+        "rank": "422",
+        "name": "Intel",
+        "name_v2": "Credit Intelligence Limited",
+        "link": "https://www.annualreports.com/Company/credit-intelligence-limited"
+    },
+    "CSL": {
+        "rank": "467",
+        "name": "CSL",
+        "name_v2": "CSL Limited",
+        "link": "https://www.annualreports.com/Company/CSL-Limited"
+    },
+    "Woolworths": {
+        "rank": "531",
+        "name": "Woolworths",
+        "name_v2": "Woolworths Group Limited",
+        "link": "https://www.annualreports.com/Company/woolworths-group-limited"
+    },
+    "Wesfarmers": {
+        "rank": "538",
+        "name": "Wesfarmers",
+        "name_v2": "Wesfarmers Ltd",
+        "link": "https://www.annualreports.com/Company/Wesfarmers-Ltd"
+    },
+    "Telstra": {
+        "rank": "601",
+        "name": "Telstra",
+        "name_v2": "Telstra Corporation Limited",
+        "link": "https://www.annualreports.com/Company/telstra-corporation-limited"
+    },
+    "SK": {
+        "rank": "620",
+        "name": "SK",
+        "name_v2": "SKS Technologies Group Limited ",
+        "link": "https://www.annualreports.com/Company/sks-technologies-group-limited"
+    },
+    "Blackstone": {
+        "rank": "648",
+        "name": "Blackstone",
+        "name_v2": "Blackstone Minerals Limited",
+        "link": "https://www.annualreports.com/Company/blackstone-minerals-limited"
+    },
+    "QBE Insurance Group": {
+        "rank": "721",
+        "name": "QBE Insurance Group",
+        "name_v2": "QBE Insurance Group Limited",
+        "link": "https://www.annualreports.com/Company/qbe-insurance-group-limited"
+    },
+    "EQT": {
+        "rank": "747",
+        "name": "EQT",
+        "name_v2": "EQT Holdings Limited",
+        "link": "https://www.annualreports.com/Company/eqt-holdings-limited"
+    },
+    "Santos": {
+        "rank": "765",
+        "name": "Santos",
+        "name_v2": "Santos Ltd",
+        "link": "https://www.annualreports.com/Company/Santos-Ltd"
+    },
+    "Amcor": {
+        "rank": "901",
+        "name": "Amcor",
+        "name_v2": "Amcor plc",
+        "link": "https://www.annualreports.com/Company/amcor-plc"
+    },
+    "Coles Group": {
+        "rank": "915",
+        "name": "Coles Group",
+        "name_v2": "Coles Group",
+        "link": "https://www.annualreports.com/Company/coles-group"
+    },
+    "Flex": {
+        "rank": "919",
+        "name": "Flex",
+        "name_v2": "FlexiGroup Limited",
+        "link": "https://www.annualreports.com/Company/FlexiGroup-Limited"
+    },
+    "Suncorp Group": {
+        "rank": "938",
+        "name": "Suncorp Group",
+        "name_v2": "Suncorp Group Ltd",
+        "link": "https://www.annualreports.com/Company/Suncorp-Group-Ltd"
+    },
+    "Goodman Group": {
+        "rank": "1,070",
+        "name": "Goodman Group",
+        "name_v2": "Goodman Group",
+        "link": "https://www.annualreports.com/Company/goodman-group"
+    },
+    "APA": {
+        "rank": "1,113",
+        "name": "APA",
+        "name_v2": "APA Group",
+        "link": "https://www.annualreports.com/Company/APA-Group"
+    },
+    "Metro": {
+        "rank": "1,196",
+        "name": "Metro",
+        "name_v2": "Metro Mining Limited",
+        "link": "https://www.annualreports.com/Company/metro-mining-limited"
+    },
+    "Scor": {
+        "rank": "1,201",
+        "name": "Scor",
+        "name_v2": "Scorpion Minerals Limited",
+        "link": "https://www.annualreports.com/Company/scorpion-minerals-limited"
+    },
+    "Partners Group Holding": {
+        "rank": "1,256",
+        "name": "Partners Group Holding",
+        "name_v2": "Kelly Partners Group Holdings Limited",
+        "link": "https://www.annualreports.com/Company/kelly-partners-group-holdings-limited"
+    },
+    "Emera": {
+        "rank": "1,259",
+        "name": "Emera",
+        "name_v2": "Emerald Resources NL",
+        "link": "https://www.annualreports.com/Company/emerald-resources-nl"
+    },
+    "Newcrest Mining": {
+        "rank": "1,288",
+        "name": "Newcrest Mining",
+        "name_v2": "Newcrest Mining Limited",
+        "link": "https://www.annualreports.com/Company/Newcrest-Mining-Limited"
+    },
+    "Transurban Group": {
+        "rank": "1,330",
+        "name": "Transurban Group",
+        "name_v2": "Transurban Group",
+        "link": "https://www.annualreports.com/Company/transurban-group"
+    },
+    "XP": {
+        "rank": "1,436",
+        "name": "XP",
+        "name_v2": "XPS Pensions Group",
+        "link": "https://www.annualreports.com/Company/xps-pensions-group"
+    },
+    "Ampol ": {
+        "rank": "1,514",
+        "name": "Ampol ",
+        "name_v2": "Ampol Limited",
+        "link": "https://www.annualreports.com/Company/ampol-limited"
+    },
+    "Hera": {
+        "rank": "1,515",
+        "name": "Hera",
+        "name_v2": "HeraMED ",
+        "link": "https://www.annualreports.com/Company/heramed"
+    },
+    "Empire": {
+        "rank": "1,525",
+        "name": "Empire",
+        "name_v2": "Empire Energy Group Limited",
+        "link": "https://www.annualreports.com/Company/empire-energy-group-limited"
+    },
+    "Kingfisher": {
+        "rank": "1,571",
+        "name": "Kingfisher",
+        "name_v2": "Kingfisher Mining Limited",
+        "link": "https://www.annualreports.com/Company/kingfisher-mining-limited"
+    },
+    "Lear": {
+        "rank": "1,595",
+        "name": "Lear",
+        "name_v2": "3P Learning",
+        "link": "https://www.annualreports.com/Company/3p-learning"
+    },
+    "Aristocrat Leisure": {
+        "rank": "1,609",
+        "name": "Aristocrat Leisure",
+        "name_v2": "Aristocrat Leisure Limited",
+        "link": "https://www.annualreports.com/Company/aristocrat-leisure-limited"
+    },
+    "Next": {
+        "rank": "1,639",
+        "name": "Next",
+        "name_v2": "Next Science Limited",
+        "link": "https://www.annualreports.com/Company/next-science-limited"
+    },
+    "Whitehaven Coal": {
+        "rank": "1,690",
+        "name": "Whitehaven Coal",
+        "name_v2": "Whitehaven Coal ",
+        "link": "https://www.annualreports.com/Company/whitehaven"
+    },
+    "Pilbara Minerals": {
+        "rank": "1,720",
+        "name": "Pilbara Minerals",
+        "name_v2": "Pilbara Minerals",
+        "link": "https://www.annualreports.com/Company/pilbara-mineral"
+    },
+    "Bank of Queensland": {
+        "rank": "1,734",
+        "name": "Bank of Queensland",
+        "name_v2": "Bank of Queensland Limited",
+        "link": "https://www.annualreports.com/Company/bank-of-queensland-limited"
+    },
+    "Origin Energy": {
+        "rank": "1,787",
+        "name": "Origin Energy",
+        "name_v2": "Origin Energy Ltd",
+        "link": "https://www.annualreports.com/Company/Origin-Energy-Ltd"
+    },
+    "Sonic Healthcare": {
+        "rank": "1,796",
+        "name": "Sonic Healthcare",
+        "name_v2": "Sonic Healthcare Limited",
+        "link": "https://www.annualreports.com/Company/Sonic-Healthcare-Limited"
+    },
+    "Brambles": {
+        "rank": "1,821",
+        "name": "Brambles",
+        "name_v2": "Brambles Limited",
+        "link": "https://www.annualreports.com/Company/Brambles-Limited"
+    },
+    "VF": {
+        "rank": "1,859",
+        "name": "VF",
+        "name_v2": "Monash IVF Group Ltd",
+        "link": "https://www.annualreports.com/Company/Monash-IVF-Group-Ltd"
+    },
+    "Viva Energy Group": {
+        "rank": "1,874",
+        "name": "Viva Energy Group",
+        "name_v2": "Viva Energy Group Limited",
+        "link": "https://www.annualreports.com/Company/viva-energy-group-limited"
+    }
+}

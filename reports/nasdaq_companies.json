@@ -1,0 +1,1028 @@
+{
+    "Microsoft": {
+        "rank": "9",
+        "name": "Microsoft",
+        "name_v2": "Microsoft Corporation",
+        "link": "https://www.annualreports.com/Company/microsoft-corporation"
+    },
+    "Apple": {
+        "rank": "10",
+        "name": "Apple",
+        "name_v2": "Apple Inc.",
+        "link": "https://www.annualreports.com/Company/apple-inc"
+    },
+    "Meta Platforms": {
+        "rank": "31",
+        "name": "Meta Platforms",
+        "name_v2": "Meta Platforms, Inc.",
+        "link": "https://www.annualreports.com/Company/meta-platforms-inc"
+    },
+    "Amazon": {
+        "rank": "36",
+        "name": "Amazon",
+        "name_v2": "Amazon.com Inc.",
+        "link": "https://www.annualreports.com/Company/amazoncom-inc"
+    },
+    "RBC": {
+        "rank": "38",
+        "name": "RBC",
+        "name_v2": "ORBCOMM, Inc.",
+        "link": "https://www.annualreports.com/Company/orbcomm-inc"
+    },
+    "Comcast": {
+        "rank": "51",
+        "name": "Comcast",
+        "name_v2": "Comcast Corp.",
+        "link": "https://www.annualreports.com/Company/comcast-corp"
+    },
+    "Tesla": {
+        "rank": "69",
+        "name": "Tesla",
+        "name_v2": "Tesla, Inc.",
+        "link": "https://www.annualreports.com/Company/tesla-inc"
+    },
+    "Cisco Systems": {
+        "rank": "93",
+        "name": "Cisco Systems",
+        "name_v2": "Cisco Systems Inc.",
+        "link": "https://www.annualreports.com/Company/cisco-systems-inc"
+    },
+    "Coca-Cola": {
+        "rank": "96",
+        "name": "Coca-Cola",
+        "name_v2": "Coca-Cola Bottling Co. Consolidated",
+        "link": "https://www.annualreports.com/Company/coca-cola-bottling-co-consolidated"
+    },
+    "Costco Wholesale": {
+        "rank": "99",
+        "name": "Costco Wholesale",
+        "name_v2": "Costco Wholesale Corporation",
+        "link": "https://www.annualreports.com/Company/costco-wholesale-corporation"
+    },
+    "Broadcom": {
+        "rank": "134",
+        "name": "Broadcom",
+        "name_v2": "Broadcom Inc.",
+        "link": "https://www.annualreports.com/Company/broadcom-inc"
+    },
+    "Amgen": {
+        "rank": "157",
+        "name": "Amgen",
+        "name_v2": "Amgen Inc.",
+        "link": "https://www.annualreports.com/Company/amgen-inc"
+    },
+    "Qualcomm": {
+        "rank": "180",
+        "name": "Qualcomm",
+        "name_v2": "Qualcomm Incorporated",
+        "link": "https://www.annualreports.com/Company/qualcomm-incorporated"
+    },
+    "Mondelez International": {
+        "rank": "192",
+        "name": "Mondelez International",
+        "name_v2": "Mondelez International",
+        "link": "https://www.annualreports.com/Company/mondelez-international"
+    },
+    "Target": {
+        "rank": "203",
+        "name": "Target",
+        "name_v2": "Target Hospitality Corp.",
+        "link": "https://www.annualreports.com/Company/target-hospitality-corp"
+    },
+    "Gilead Sciences": {
+        "rank": "212",
+        "name": "Gilead Sciences",
+        "name_v2": "Gilead Sciences",
+        "link": "https://www.annualreports.com/Company/gilead-sciences"
+    },
+    "BlackRock": {
+        "rank": "215",
+        "name": "BlackRock",
+        "name_v2": "BlackRock Capital Investment Corporation",
+        "link": "https://www.annualreports.com/Company/blackrock-capital-investment-corporation"
+    },
+    "JD.com": {
+        "rank": "224",
+        "name": "JD.com",
+        "name_v2": "JD.com, Inc.",
+        "link": "https://www.annualreports.com/Company/jd-com-inc"
+    },
+    "PayPal": {
+        "rank": "239",
+        "name": "PayPal",
+        "name_v2": "PayPal Holdings, Inc",
+        "link": "https://www.annualreports.com/Company/paypal-holdings-inc"
+    },
+    "NVIDIA": {
+        "rank": "241",
+        "name": "NVIDIA",
+        "name_v2": "NVIDIA Corporation",
+        "link": "https://www.annualreports.com/Company/nvidia-corporation"
+    },
+    "Orange": {
+        "rank": "251",
+        "name": "Orange",
+        "name_v2": "Orange County Bancorp",
+        "link": "https://www.annualreports.com/Company/orange-county-bancorp"
+    },
+    "Kraft Heinz Company": {
+        "rank": "252",
+        "name": "Kraft Heinz Company",
+        "name_v2": "The Kraft Heinz Company",
+        "link": "https://www.annualreports.com/Company/the-kraft-heinz-company"
+    },
+    "Dow": {
+        "rank": "257",
+        "name": "Dow",
+        "name_v2": "Churchill Downs, Inc.",
+        "link": "https://www.annualreports.com/Company/churchill-downs-inc-1"
+    },
+    "Fiserv": {
+        "rank": "292",
+        "name": "Fiserv",
+        "name_v2": "Fiserv Inc.",
+        "link": "https://www.annualreports.com/Company/fiserv-inc"
+    },
+    "Starbucks": {
+        "rank": "302",
+        "name": "Starbucks",
+        "name_v2": "Starbucks Corp.",
+        "link": "https://www.annualreports.com/Company/starbucks-corp"
+    },
+    "Texas Instruments": {
+        "rank": "315",
+        "name": "Texas Instruments",
+        "name_v2": "Texas Instruments Inc.",
+        "link": "https://www.annualreports.com/Company/texas-instruments-inc"
+    },
+    "Applied Materials": {
+        "rank": "316",
+        "name": "Applied Materials",
+        "name_v2": "Applied Materials Inc.",
+        "link": "https://www.annualreports.com/Company/applied-materials-inc"
+    },
+    "Principal Financial Group": {
+        "rank": "341",
+        "name": "Principal Financial Group",
+        "name_v2": "Principal Financial Group Inc.",
+        "link": "https://www.annualreports.com/Company/principal-financial-group-inc"
+    },
+    "CSX": {
+        "rank": "359",
+        "name": "CSX",
+        "name_v2": "CSX Corp.",
+        "link": "https://www.annualreports.com/Company/csx-corp"
+    },
+    "Analog Devices": {
+        "rank": "365",
+        "name": "Analog Devices",
+        "name_v2": "Analog Devices Inc.",
+        "link": "https://www.annualreports.com/Company/analog-devices-inc"
+    },
+    "Adobe": {
+        "rank": "366",
+        "name": "Adobe",
+        "name_v2": "Adobe Systems Inc.",
+        "link": "https://www.annualreports.com/Company/adobe-systems-inc"
+    },
+    "WM": {
+        "rank": "390",
+        "name": "WM",
+        "name_v2": "WM Technology, Inc.",
+        "link": "https://www.annualreports.com/Company/wm-technology-inc"
+    },
+    "Booking Holdings": {
+        "rank": "393",
+        "name": "Booking Holdings",
+        "name_v2": "Booking Holdings",
+        "link": "https://www.annualreports.com/Company/booking-holdings"
+    },
+    "United Airlines Holdings": {
+        "rank": "397",
+        "name": "United Airlines Holdings",
+        "name_v2": "United Airlines Holdings, Inc.",
+        "link": "https://www.annualreports.com/Company/united-airlines-holdings-inc"
+    },
+    "Xcel Energy": {
+        "rank": "416",
+        "name": "Xcel Energy",
+        "name_v2": "Xcel Energy",
+        "link": "https://www.annualreports.com/Company/xcel-energy"
+    },
+    "Intel": {
+        "rank": "422",
+        "name": "Intel",
+        "name_v2": "CCC Intelligent Solutions Holdings Inc.",
+        "link": "https://www.annualreports.com/Company/ccc-intelligent-solutions-holdings-inc"
+    },
+    "Marriott International": {
+        "rank": "426",
+        "name": "Marriott International",
+        "name_v2": "Marriott International, Inc.",
+        "link": "https://www.annualreports.com/Company/marriott-international-inc"
+    },
+    "Regeneron Pharmaceuticals": {
+        "rank": "432",
+        "name": "Regeneron Pharmaceuticals",
+        "name_v2": "Regeneron Pharmaceuticals Inc.",
+        "link": "https://www.annualreports.com/Company/regeneron-pharmaceuticals-inc"
+    },
+    "Lam Research": {
+        "rank": "447",
+        "name": "Lam Research",
+        "name_v2": "Lam Research Corporation",
+        "link": "https://www.annualreports.com/Company/lam-research-corporation"
+    },
+    "Baidu": {
+        "rank": "455",
+        "name": "Baidu",
+        "name_v2": "Baidu, Inc.",
+        "link": "https://www.annualreports.com/Company/baidu-inc"
+    },
+    "Moderna": {
+        "rank": "462",
+        "name": "Moderna",
+        "name_v2": "Moderna Inc.",
+        "link": "https://www.annualreports.com/Company/moderna-inc"
+    },
+    "Keurig Dr Pepper": {
+        "rank": "469",
+        "name": "Keurig Dr Pepper",
+        "name_v2": "Keurig Dr Pepper",
+        "link": "https://www.annualreports.com/Company/keurig-dr-pepper"
+    },
+    "Intuit": {
+        "rank": "484",
+        "name": "Intuit",
+        "name_v2": "Intuit Inc.",
+        "link": "https://www.annualreports.com/Company/intuit-inc"
+    },
+    "NetEase": {
+        "rank": "490",
+        "name": "NetEase",
+        "name_v2": "NetEase, Inc. ",
+        "link": "https://www.annualreports.com/Company/netease-inc"
+    },
+    "CME Group": {
+        "rank": "493",
+        "name": "CME Group",
+        "name_v2": "CME Group Inc.",
+        "link": "https://www.annualreports.com/Company/cme-group-inc"
+    },
+    "Dollar Tree": {
+        "rank": "520",
+        "name": "Dollar Tree",
+        "name_v2": "Dollar Tree, Inc.",
+        "link": "https://www.annualreports.com/Company/dollar-tree-inc"
+    },
+    "Ericsson": {
+        "rank": "529",
+        "name": "Ericsson",
+        "name_v2": "Ericsson",
+        "link": "https://www.annualreports.com/Company/ericsson"
+    },
+    "Walgreens Boots Alliance": {
+        "rank": "535",
+        "name": "Walgreens Boots Alliance",
+        "name_v2": "Walgreens Boots Alliance, Inc.",
+        "link": "https://www.annualreports.com/Company/walgreens-boots-alliance-inc"
+    },
+    "American Airlines Group": {
+        "rank": "536",
+        "name": "American Airlines Group",
+        "name_v2": "American Airlines Group",
+        "link": "https://www.annualreports.com/Company/american-airlines-group"
+    },
+    "NXP Semiconductors": {
+        "rank": "543",
+        "name": "NXP Semiconductors",
+        "name_v2": "NXP Semiconductors N.V.",
+        "link": "https://www.annualreports.com/Company/nxp-semiconductors-nv"
+    },
+    "Warner Bros. Discovery": {
+        "rank": "559",
+        "name": "Warner Bros. Discovery",
+        "name_v2": "Warner Bros. Discovery, Inc.",
+        "link": "https://www.annualreports.com/Company/warner-bros-discovery-inc"
+    },
+    "Advanced Micro Devices": {
+        "rank": "568",
+        "name": "Advanced Micro Devices",
+        "name_v2": "Advanced Micro Devices, Inc.",
+        "link": "https://www.annualreports.com/Company/advanced-micro-devices-inc"
+    },
+    "Arch Capital Group": {
+        "rank": "570",
+        "name": "Arch Capital Group",
+        "name_v2": "Arch Capital Group Limited",
+        "link": "https://www.annualreports.com/Company/arch-capital-group-limited"
+    },
+    "Cognizant": {
+        "rank": "589",
+        "name": "Cognizant",
+        "name_v2": "Cognizant Technology Solutions Corp.",
+        "link": "https://www.annualreports.com/Company/cognizant-technology-solutions-corp"
+    },
+    "Biogen": {
+        "rank": "598",
+        "name": "Biogen",
+        "name_v2": "Biogen Idec",
+        "link": "https://www.annualreports.com/Company/biogen-idec"
+    },
+    "Vertex Pharmaceuticals": {
+        "rank": "620",
+        "name": "Vertex Pharmaceuticals",
+        "name_v2": "Vertex Pharmaceuticals Inc.",
+        "link": "https://www.annualreports.com/Company/vertex-pharmaceuticals-inc"
+    },
+    "Viatris": {
+        "rank": "624",
+        "name": "Viatris",
+        "name_v2": "Viatris",
+        "link": "https://www.annualreports.com/Company/viatris"
+    },
+    "Diamondback Energy": {
+        "rank": "639",
+        "name": "Diamondback Energy",
+        "name_v2": "Diamondback Energy, Inc.",
+        "link": "https://www.annualreports.com/Company/diamondback-energy-inc"
+    },
+    "Activision Blizzard": {
+        "rank": "640",
+        "name": "Activision Blizzard",
+        "name_v2": "Activision Blizzard Inc.",
+        "link": "https://www.annualreports.com/Company/activision-blizzard-inc"
+    },
+    "Northern Trust": {
+        "rank": "645",
+        "name": "Northern Trust",
+        "name_v2": "Northern Trust",
+        "link": "https://www.annualreports.com/Company/northern-trust"
+    },
+    "Prudential": {
+        "rank": "660",
+        "name": "Prudential",
+        "name_v2": "Prudential Bancorp, Inc.",
+        "link": "https://www.annualreports.com/Company/prudential-bancorp-inc"
+    },
+    "O'Reilly Automotive": {
+        "rank": "666",
+        "name": "O'Reilly Automotive",
+        "name_v2": "O'Reilly Automotive Inc.",
+        "link": "https://www.annualreports.com/Company/oreilly-automotive-inc"
+    },
+    "Ross Stores": {
+        "rank": "681",
+        "name": "Ross Stores",
+        "name_v2": "Ross Stores Inc.",
+        "link": "https://www.annualreports.com/Company/ross-stores-inc"
+    },
+    "KLA": {
+        "rank": "686",
+        "name": "KLA",
+        "name_v2": "KLA-Tencor Corporation",
+        "link": "https://www.annualreports.com/Company/kla-tencor-corporation"
+    },
+    "Steel Dynamics": {
+        "rank": "693",
+        "name": "Steel Dynamics",
+        "name_v2": "Steel Dynamics Inc.",
+        "link": "https://www.annualreports.com/Company/steel-dynamics-inc"
+    },
+    "Fox": {
+        "rank": "719",
+        "name": "Fox",
+        "name_v2": "Fox Corporation",
+        "link": "https://www.annualreports.com/Company/fox-corporation"
+    },
+    "Constellation Energy": {
+        "rank": "724",
+        "name": "Constellation Energy",
+        "name_v2": "Constellation Energy Corporation",
+        "link": "https://www.annualreports.com/Company/constellation-energy-corporation"
+    },
+    "AerCap Holdings": {
+        "rank": "735",
+        "name": "AerCap Holdings",
+        "name_v2": "AerCap Holdings N.V.",
+        "link": "https://www.annualreports.com/Company/aercap-holdings-nv"
+    },
+    "Equinix": {
+        "rank": "738",
+        "name": "Equinix",
+        "name_v2": "Equinix Inc.",
+        "link": "https://www.annualreports.com/Company/equinix-inc"
+    },
+    "Microchip Technology": {
+        "rank": "753",
+        "name": "Microchip Technology",
+        "name_v2": "Microchip Technology Inc.",
+        "link": "https://www.annualreports.com/Company/microchip-technology-inc"
+    },
+    "WPP": {
+        "rank": "763",
+        "name": "WPP",
+        "name_v2": "WPP Group plc",
+        "link": "https://www.annualreports.com/Company/wpp-group-plc"
+    },
+    "Builders FirstSource": {
+        "rank": "765",
+        "name": "Builders FirstSource",
+        "name_v2": "Builders FirstSource Inc.",
+        "link": "https://www.annualreports.com/Company/builders-firstsource-inc"
+    },
+    "CDW": {
+        "rank": "784",
+        "name": "CDW",
+        "name_v2": "CDW Corp",
+        "link": "https://www.annualreports.com/Company/cdw-corp"
+    },
+    "Block": {
+        "rank": "802",
+        "name": "Block",
+        "name_v2": "Riot Blockchain, Inc.",
+        "link": "https://www.annualreports.com/Company/riot-blockchai-inc"
+    },
+    "Paramount": {
+        "rank": "857",
+        "name": "Paramount",
+        "name_v2": "Paramount",
+        "link": "https://www.annualreports.com/Company/paramount"
+    },
+    "Tractor Supply": {
+        "rank": "864",
+        "name": "Tractor Supply",
+        "name_v2": "Tractor Supply Company",
+        "link": "https://www.annualreports.com/Company/tractor-supply-company"
+    },
+    "Ryanair Holdings": {
+        "rank": "868",
+        "name": "Ryanair Holdings",
+        "name_v2": "Ryanair Holdings plc",
+        "link": "https://www.annualreports.com/Company/ryanair-holdings-plc"
+    },
+    "Cintas": {
+        "rank": "884",
+        "name": "Cintas",
+        "name_v2": "Cintas Corporation",
+        "link": "https://www.annualreports.com/Company/cintas-corporation"
+    },
+    "Expeditors International": {
+        "rank": "906",
+        "name": "Expeditors International",
+        "name_v2": "Expeditors International of Washington",
+        "link": "https://www.annualreports.com/Company/expeditors-international-of-washington"
+    },
+    "Avis Budget Group": {
+        "rank": "916",
+        "name": "Avis Budget Group",
+        "name_v2": "Avis Budget Group, Inc",
+        "link": "https://www.annualreports.com/Company/avis-budget-group-inc"
+    },
+    "Flex": {
+        "rank": "919",
+        "name": "Flex",
+        "name_v2": "Flex Ltd. ",
+        "link": "https://www.annualreports.com/Company/flex-ltd"
+    },
+    "Intuitive Surgical": {
+        "rank": "924",
+        "name": "Intuitive Surgical",
+        "name_v2": "Intuitive Surgical, Inc.",
+        "link": "https://www.annualreports.com/Company/intuitive-surgical-inc"
+    },
+    "MercadoLibre": {
+        "rank": "954",
+        "name": "MercadoLibre",
+        "name_v2": "MercadoLibre Inc.",
+        "link": "https://www.annualreports.com/Company/mercadolibre-inc"
+    },
+    "Monster Beverage": {
+        "rank": "960",
+        "name": "Monster Beverage",
+        "name_v2": "Monster Beverage Corp",
+        "link": "https://www.annualreports.com/Company/monster-beverage-corp"
+    },
+    "Leonardo": {
+        "rank": "994",
+        "name": "Leonardo",
+        "name_v2": "Leonardo Drs Inc.",
+        "link": "https://www.annualreports.com/Company/leonardo-drs-inc"
+    },
+    "LKQ": {
+        "rank": "1,003",
+        "name": "LKQ",
+        "name_v2": "LKQ Corp.",
+        "link": "https://www.annualreports.com/Company/lkq-corp"
+    },
+    "Lululemon Athletica": {
+        "rank": "1,006",
+        "name": "Lululemon Athletica",
+        "name_v2": "Lululemon Athletica Inc",
+        "link": "https://www.annualreports.com/Company/lululemon-athletica-inc"
+    },
+    "eBay": {
+        "rank": "1,019",
+        "name": "eBay",
+        "name_v2": "eBay",
+        "link": "https://www.annualreports.com/Company/ebay"
+    },
+    "C.H. Robinson": {
+        "rank": "1,043",
+        "name": "C.H. Robinson",
+        "name_v2": "C.H. Robinson Worldwide Inc.",
+        "link": "https://www.annualreports.com/Company/ch-robinson-worldwide-inc"
+    },
+    "Dassault Systemes": {
+        "rank": "1,045",
+        "name": "Dassault Systemes",
+        "name_v2": "Dassault Systemes",
+        "link": "https://www.annualreports.com/Company/dassault-systemes"
+    },
+    "Electronic Arts": {
+        "rank": "1,061",
+        "name": "Electronic Arts",
+        "name_v2": "Electronic Arts",
+        "link": "https://www.annualreports.com/Company/electronic-arts"
+    },
+    "Fastenal": {
+        "rank": "1,067",
+        "name": "Fastenal",
+        "name_v2": "Fastenal Co.",
+        "link": "https://www.annualreports.com/Company/fastenal-co"
+    },
+    "Paychex": {
+        "rank": "1,080",
+        "name": "Paychex",
+        "name_v2": "Paychex, Inc.",
+        "link": "https://www.annualreports.com/Company/paychex-inc"
+    },
+    "Ball": {
+        "rank": "1,101",
+        "name": "Ball",
+        "name_v2": "Ballard Power Systems",
+        "link": "https://www.annualreports.com/Company/ballard-power-systems"
+    },
+    "APA": {
+        "rank": "1,113",
+        "name": "APA",
+        "name_v2": "APA Corporation",
+        "link": "https://www.annualreports.com/Company/apa-corporation"
+    },
+    "Synopsys": {
+        "rank": "1,141",
+        "name": "Synopsys",
+        "name_v2": "Synopsys",
+        "link": "https://www.annualreports.com/Company/synopsys"
+    },
+    "Fortinet": {
+        "rank": "1,151",
+        "name": "Fortinet",
+        "name_v2": "Fortinet Inc.",
+        "link": "https://www.annualreports.com/Company/fortinet-inc"
+    },
+    "Copart": {
+        "rank": "1,171",
+        "name": "Copart",
+        "name_v2": "Copart",
+        "link": "https://www.annualreports.com/Company/copart"
+    },
+    "Cadence Design": {
+        "rank": "1,175",
+        "name": "Cadence Design",
+        "name_v2": "Cadence Design Systems, Inc.",
+        "link": "https://www.annualreports.com/Company/cadence-design-systems-inc"
+    },
+    "East West Bancorp": {
+        "rank": "1,185",
+        "name": "East West Bancorp",
+        "name_v2": "East West Bancorp",
+        "link": "https://www.annualreports.com/Company/east-west-bancorp"
+    },
+    "Coinbase": {
+        "rank": "1,189",
+        "name": "Coinbase",
+        "name_v2": "Coinbase Global, Inc.",
+        "link": "https://www.annualreports.com/Company/coinbase-global-inc"
+    },
+    "Metro": {
+        "rank": "1,196",
+        "name": "Metro",
+        "name_v2": "MetroCity Bankshares, Inc.",
+        "link": "https://www.annualreports.com/Company/metrocity-bankshares-inc"
+    },
+    "Scor": {
+        "rank": "1,201",
+        "name": "Scor",
+        "name_v2": "comScore, Inc.",
+        "link": "https://www.annualreports.com/Company/comscore-inc"
+    },
+    "Expedia Group": {
+        "rank": "1,207",
+        "name": "Expedia Group",
+        "name_v2": "Expedia Group, Inc.",
+        "link": "https://www.annualreports.com/Company/expedia-group-inc"
+    },
+    "Popular": {
+        "rank": "1,216",
+        "name": "Popular",
+        "name_v2": "Popular Inc",
+        "link": "https://www.annualreports.com/Company/popular-inc"
+    },
+    "Zions Bancorp": {
+        "rank": "1,218",
+        "name": "Zions Bancorp",
+        "name_v2": "Zions Bancorporation",
+        "link": "https://www.annualreports.com/Company/zions-bancorporation"
+    },
+    "Western Digital": {
+        "rank": "1,223",
+        "name": "Western Digital",
+        "name_v2": "Western Digital Technologies, Inc.",
+        "link": "https://www.annualreports.com/Company/western-digital-technologies-inc"
+    },
+    "Autodesk": {
+        "rank": "1,237",
+        "name": "Autodesk",
+        "name_v2": "Autodesk, Inc.",
+        "link": "https://www.annualreports.com/Company/autodesk-inc"
+    },
+    "StoneX Group": {
+        "rank": "1,247",
+        "name": "StoneX Group",
+        "name_v2": "StoneX Group Inc.",
+        "link": "https://www.annualreports.com/Company/stonex-group-inc"
+    },
+    "Liberty Global": {
+        "rank": "1,252",
+        "name": "Liberty Global",
+        "name_v2": "Liberty Global Inc.",
+        "link": "https://www.annualreports.com/Company/liberty-global-inc"
+    },
+    "Brighthouse Financial": {
+        "rank": "1,260",
+        "name": "Brighthouse Financial",
+        "name_v2": "Brighthouse Financial, Inc.",
+        "link": "https://www.annualreports.com/Company/brighthouse-financial-inc"
+    },
+    "Cincinnati Financial": {
+        "rank": "1,263",
+        "name": "Cincinnati Financial",
+        "name_v2": "Cincinnati Financial Corp.",
+        "link": "https://www.annualreports.com/Company/cincinnati-financial-corp"
+    },
+    "Caesars Entertainment": {
+        "rank": "1,280",
+        "name": "Caesars Entertainment",
+        "name_v2": "Caesars Entertainment Corporation",
+        "link": "https://www.annualreports.com/Company/caesars-entertainment-corporation"
+    },
+    "NetApp": {
+        "rank": "1,290",
+        "name": "NetApp",
+        "name_v2": "NetApp, Inc.",
+        "link": "https://www.annualreports.com/Company/netapp-inc"
+    },
+    "IDEXX Laboratories": {
+        "rank": "1,303",
+        "name": "IDEXX Laboratories",
+        "name_v2": "IDEXX Laboratories, Inc.",
+        "link": "https://www.annualreports.com/Company/idexx-laboratories-inc"
+    },
+    "Skyworks Solutions": {
+        "rank": "1,340",
+        "name": "Skyworks Solutions",
+        "name_v2": "Skyworks Solutions Inc.",
+        "link": "https://www.annualreports.com/Company/skyworks-solutions-inc"
+    },
+    "Garmin": {
+        "rank": "1,349",
+        "name": "Garmin",
+        "name_v2": "Garmin Ltd.",
+        "link": "https://www.annualreports.com/Company/garmin-ltd"
+    },
+    "Genmab": {
+        "rank": "1,363",
+        "name": "Genmab",
+        "name_v2": "Genmab A/S",
+        "link": "https://www.annualreports.com/Company/genmab-as"
+    },
+    "Trip.com Group": {
+        "rank": "1,416",
+        "name": "Trip.com Group",
+        "name_v2": "Trip.com Group Limited",
+        "link": "https://www.annualreports.com/Company/tripcom-group-limited"
+    },
+    "Eastman": {
+        "rank": "1,417",
+        "name": "Eastman",
+        "name_v2": "Eastman Kodak",
+        "link": "https://www.annualreports.com/Company/eastman-kodak"
+    },
+    "XP": {
+        "rank": "1,436",
+        "name": "XP",
+        "name_v2": "DXP Enterprises Inc.",
+        "link": "https://www.annualreports.com/Company/dxp-enterprises-inc"
+    },
+    "Interactive Brokers Group": {
+        "rank": "1,438",
+        "name": "Interactive Brokers Group",
+        "name_v2": "Interactive Brokers Group, Inc.",
+        "link": "https://www.annualreports.com/Company/interactive-brokers-group-inc"
+    },
+    "Hologic": {
+        "rank": "1,446",
+        "name": "Hologic",
+        "name_v2": "Hologic Inc.",
+        "link": "https://www.annualreports.com/Company/hologic-inc"
+    },
+    "Liberty Broadband": {
+        "rank": "1,476",
+        "name": "Liberty Broadband",
+        "name_v2": "Liberty Broadband",
+        "link": "https://www.annualreports.com/Company/liberty-broadband"
+    },
+    "Henry Schein": {
+        "rank": "1,492",
+        "name": "Henry Schein",
+        "name_v2": "Henry Schein Inc.",
+        "link": "https://www.annualreports.com/Company/henry-schein-inc"
+    },
+    "Empire": {
+        "rank": "1,525",
+        "name": "Empire",
+        "name_v2": "Empire Resorts Inc.",
+        "link": "https://www.annualreports.com/Company/empire-resorts-inc"
+    },
+    "Check Point Software": {
+        "rank": "1,537",
+        "name": "Check Point Software",
+        "name_v2": "Check Point Software Technologies Ltd.",
+        "link": "https://www.annualreports.com/Company/check-point-software-technologies-ltd"
+    },
+    "Carlyle Group": {
+        "rank": "1,540",
+        "name": "Carlyle Group",
+        "name_v2": "The Carlyle Group Inc.",
+        "link": "https://www.annualreports.com/Company/the-carlyle-group-inc"
+    },
+    "Waters": {
+        "rank": "1,547",
+        "name": "Waters",
+        "name_v2": "Waterstone Financial, Inc",
+        "link": "https://www.annualreports.com/Company/waterstone-financial-inc"
+    },
+    "BOK Financial": {
+        "rank": "1,564",
+        "name": "BOK Financial",
+        "name_v2": "BOK Financial Corporation",
+        "link": "https://www.annualreports.com/Company/bok-financial-corporation"
+    },
+    "ASM International": {
+        "rank": "1,579",
+        "name": "ASM International",
+        "name_v2": "ASM International NV",
+        "link": "https://www.annualreports.com/Company/asm-international-nv"
+    },
+    "Lear": {
+        "rank": "1,595",
+        "name": "Lear",
+        "name_v2": "Learning Tree International Inc.",
+        "link": "https://www.annualreports.com/Company/learning-tree-international-inc"
+    },
+    "Verisk Analytics": {
+        "rank": "1,596",
+        "name": "Verisk Analytics",
+        "name_v2": "Verisk Analytics Inc",
+        "link": "https://www.annualreports.com/Company/verisk-Analytics-inc"
+    },
+    "DexCom": {
+        "rank": "1,606",
+        "name": "DexCom",
+        "name_v2": "DexCom, Inc.",
+        "link": "https://www.annualreports.com/Company/dexcom-inc"
+    },
+    "Wintrust Financial": {
+        "rank": "1,606",
+        "name": "Wintrust Financial",
+        "name_v2": "Wintrust Financial Corporation",
+        "link": "https://www.annualreports.com/Company/wintrust-financial-corporation"
+    },
+    "Navient": {
+        "rank": "1,612",
+        "name": "Navient",
+        "name_v2": "Navient Corp",
+        "link": "https://www.annualreports.com/Company/navient-corp"
+    },
+    "Mobileye Global": {
+        "rank": "1,637",
+        "name": "Mobileye Global",
+        "name_v2": "Mobileye Global Inc.",
+        "link": "https://www.annualreports.com/Company/mobileye-global-inc"
+    },
+    "Next": {
+        "rank": "1,639",
+        "name": "Next",
+        "name_v2": "NextCure, Inc.",
+        "link": "https://www.annualreports.com/Company/nextcure-inc"
+    },
+    "Sharp": {
+        "rank": "1,648",
+        "name": "Sharp",
+        "name_v2": "Sharps Compliance Corp.",
+        "link": "https://www.annualreports.com/Company/sharps-compliance-corp"
+    },
+    "United Natural Foods": {
+        "rank": "1,650",
+        "name": "United Natural Foods",
+        "name_v2": "United Natural Foods,Inc.",
+        "link": "https://www.annualreports.com/Company/united-natural-foodsinc"
+    },
+    "Casey's General Stores": {
+        "rank": "1,660",
+        "name": "Casey's General Stores",
+        "name_v2": "Casey's General Stores Inc.",
+        "link": "https://www.annualreports.com/Company/caseys-general-stores-inc"
+    },
+    "SS&C Technologies": {
+        "rank": "1,663",
+        "name": "SS&C Technologies",
+        "name_v2": "SS&C Technologies, Inc.",
+        "link": "https://www.annualreports.com/Company/ssc-technologies-inc"
+    },
+    "Pool": {
+        "rank": "1,680",
+        "name": "Pool",
+        "name_v2": "Pool Corp",
+        "link": "https://www.annualreports.com/Company/pool-corp"
+    },
+    "News Corp": {
+        "rank": "1,687",
+        "name": "News Corp",
+        "name_v2": "DallasNews Corporation",
+        "link": "https://www.annualreports.com/Company/dallasnews-corporation"
+    },
+    "Atlassian": {
+        "rank": "1,703",
+        "name": "Atlassian",
+        "name_v2": "Atlassian Corp Plc",
+        "link": "https://www.annualreports.com/Company/atlassian-corp-plc"
+    },
+    "South State": {
+        "rank": "1,710",
+        "name": "South State",
+        "name_v2": "South State Corporation",
+        "link": "https://www.annualreports.com/Company/south-state-corporation"
+    },
+    "Take-Two Interactive Software": {
+        "rank": "1,720",
+        "name": "Take-Two Interactive Software",
+        "name_v2": "Take-Two Interactive Software Inc.",
+        "link": "https://www.annualreports.com/Company/take-two-interactive-software-inc"
+    },
+    "Teradyne": {
+        "rank": "1,728",
+        "name": "Teradyne",
+        "name_v2": "Teradyne Inc.",
+        "link": "https://www.annualreports.com/Company/teradyne-inc"
+    },
+    "Illumina": {
+        "rank": "1,738",
+        "name": "Illumina",
+        "name_v2": "Illumina Inc.",
+        "link": "https://www.annualreports.com/Company/illumina-inc"
+    },
+    "Aker": {
+        "rank": "1,750",
+        "name": "Aker",
+        "name_v2": "Akerna Corp.",
+        "link": "https://www.annualreports.com/Company/akerna-corp"
+    },
+    "Trade Desk": {
+        "rank": "1,757",
+        "name": "Trade Desk",
+        "name_v2": "The Trade Desk, Inc.",
+        "link": "https://www.annualreports.com/Company/the-trade-desk-inc"
+    },
+    "CoStar Group": {
+        "rank": "1,761",
+        "name": "CoStar Group",
+        "name_v2": "CoStar Group, Inc.",
+        "link": "https://www.annualreports.com/Company/costar-group-inc"
+    },
+    "IDEX": {
+        "rank": "1,764",
+        "name": "IDEX",
+        "name_v2": "IDEXX Laboratories, Inc.",
+        "link": "https://www.annualreports.com/Company/idexx-laboratories-inc"
+    },
+    "AGNC Investment": {
+        "rank": "1,769",
+        "name": "AGNC Investment",
+        "name_v2": "AGNC Investment Corp",
+        "link": "https://www.annualreports.com/Company/agnc-investment-corp"
+    },
+    "Enphase Energy": {
+        "rank": "1,774",
+        "name": "Enphase Energy",
+        "name_v2": "Enphase Energy Inc",
+        "link": "https://www.annualreports.com/Company/enphase-energy-inc"
+    },
+    "BeiGene": {
+        "rank": "1,782",
+        "name": "BeiGene",
+        "name_v2": "BeiGene, Ltd.",
+        "link": "https://www.annualreports.com/Company/beigene-ltd"
+    },
+    "CrowdStrike": {
+        "rank": "1,785",
+        "name": "CrowdStrike",
+        "name_v2": "CrowdStrike Holdings, Inc.",
+        "link": "https://www.annualreports.com/Company/crowdstrike-holdings-inc"
+    },
+    "Chord Energy": {
+        "rank": "1,811",
+        "name": "Chord Energy",
+        "name_v2": "Chord Energy Corporation",
+        "link": "https://www.annualreports.com/Company/chord-energy-corporation"
+    },
+    "Prosperity Bancshares": {
+        "rank": "1,820",
+        "name": "Prosperity Bancshares",
+        "name_v2": "Prosperity Bancshares Inc.",
+        "link": "https://www.annualreports.com/Company/prosperity-bancshares-inc"
+    },
+    "SBA Communications": {
+        "rank": "1,828",
+        "name": "SBA Communications",
+        "name_v2": "SBA Communications Corp.",
+        "link": "https://www.annualreports.com/Company/sba-communications-corp"
+    },
+    "Bank OZK": {
+        "rank": "1,835",
+        "name": "Bank OZK",
+        "name_v2": "Bank OZK",
+        "link": "https://www.annualreports.com/Company/bank-ozk"
+    },
+    "Columbia Bank": {
+        "rank": "1,860",
+        "name": "Columbia Bank",
+        "name_v2": "Columbia Bank",
+        "link": "https://www.annualreports.com/Company/columbia-bank"
+    },
+    "Datadog": {
+        "rank": "1,868",
+        "name": "Datadog",
+        "name_v2": "Datadog, Inc.",
+        "link": "https://www.annualreports.com/Company/datadog-inc"
+    },
+    "Monolithic Power Systems": {
+        "rank": "1,868",
+        "name": "Monolithic Power Systems",
+        "name_v2": "Monolithic Power Systems, Inc.",
+        "link": "https://www.annualreports.com/Company/Monolithic-Power-Systems-Inc"
+    },
+    "Align Technology": {
+        "rank": "1,885",
+        "name": "Align Technology",
+        "name_v2": "Align Technology Inc.",
+        "link": "https://www.annualreports.com/Company/align-technology-inc"
+    },
+    "Royalty Pharma": {
+        "rank": "1,894",
+        "name": "Royalty Pharma",
+        "name_v2": "Royalty Pharma plc",
+        "link": "https://www.annualreports.com/Company/royalty-pharma-plc"
+    },
+    "Insulet Corp": {
+        "rank": "1,913",
+        "name": "Insulet Corp",
+        "name_v2": "Insulet Corporation",
+        "link": "https://www.annualreports.com/Company/Insulet-corporation"
+    },
+    "Andersons": {
+        "rank": "1,922",
+        "name": "Andersons",
+        "name_v2": "The Andersons, Inc.",
+        "link": "https://www.annualreports.com/Company/the-andersons-inc"
+    },
+    "Seagate Technology": {
+        "rank": "1,938",
+        "name": "Seagate Technology",
+        "name_v2": "Seagate Technology PLC",
+        "link": "https://www.annualreports.com/Company/seagate-technology-plc"
+    },
+    "Gulfport Energy": {
+        "rank": "1,957",
+        "name": "Gulfport Energy",
+        "name_v2": "Gulfport Energy Corporation",
+        "link": "https://www.annualreports.com/Company/gulfport-energy-corporation"
+    },
+    "Penn Entertainment": {
+        "rank": "1,988",
+        "name": "Penn Entertainment",
+        "name_v2": "Penn Entertainment, Inc.",
+        "link": "https://www.annualreports.com/Company/penn-entertainment-inc"
+    }
+}
